@@ -1,0 +1,14 @@
+Resource Identifier,Region,BinLogDiskUsage (Bytes),BurstBalance (Percent),CPUUtilization (Percent),DatabaseConnections (Count),DiskQueueDepth (Count),FailedSQLServerAgentJobsCount (Count/Second),FreeableMemory (Bytes),FreeStorageSpace (Bytes),NetworkReceiveThroughput (Bytes/Second),NetworkTransmitThroughput (Bytes/Second),ReadIOPS (Count/Second),ReadLatency (Seconds),ReadThroughput (Bytes/Second),ReplicaLag (Seconds),SwapUsage (Bytes),WriteIOPS (Count/Second),WriteLatency (Seconds),WriteThroughput (Bytes/Second)
+kiuwaneu-pro-global-1,eu-west-1,0.0,0.0,7.11,495.07,2.72,0.0,48971367716.46,0.0,722488.6,7727937.45,0.38,0.0,6208.89,0.0,0.0,730.97,0.0,745007.23
+kiuwaneu-pro-global-2,eu-west-1,0.0,0.0,1.45,1.3,0.0,0.0,81776939795.46,0.0,607.77,16056.22,0.18,0.0,2868.39,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard1-1,eu-west-1,0.0,0.0,3.22,1.26,0.0,0.0,15162793062.47,0.0,571.84,13873.7,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard1-2,eu-west-1,0.0,0.0,13.71,82.93,1.17,0.0,7199656260.63,0.0,64669.66,185977.73,69.83,0.0,1144143.19,0.0,1307829.76,499.43,0.0,1094789.16
+kiuwaneu-pro-shard2-1,eu-west-1,0.0,0.0,1.54,1.26,0.0,0.0,28335776238.04,0.0,567.7,13893.77,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard2-2,eu-west-1,0.0,0.0,4.9,82.25,0.73,0.0,13426071529.56,0.0,50327.7,239658.18,106.41,0.0,1743382.84,0.0,0.0,376.0,0.0,871423.4
+kiuwaneu-pro-shard3-1,eu-west-1,0.0,0.0,1.44,1.26,0.0,0.0,82870699445.15,0.0,576.97,13899.29,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard3-2,eu-west-1,0.0,0.0,9.26,87.53,5.69,0.0,36032654620.44,0.0,185640.27,567979.42,68.12,0.0,1116041.16,0.0,0.0,2362.27,0.0,3073526.39
+kiuwaneu-pro-shard4-1,eu-west-1,0.0,0.0,5.53,75.85,0.07,0.0,10973699201.4,0.0,7045.95,22963.93,0.0,0.0,0.0,0.0,0.0,7.67,0.0,7346.02
+kiuwaneu-pro-shard4-2,eu-west-1,0.0,0.0,2.65,1.26,0.0,0.0,15406061795.56,0.0,570.23,13870.54,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard5-1,eu-west-1,0.0,0.0,2.7,0.0,0.0,0.0,15587852946.71,0.0,0.77,1.28,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+kiuwaneu-pro-shard5-2,eu-west-1,0.0,0.0,5.47,80.56,0.25,0.0,10397987148.11,0.0,24758.94,36371.67,1.38,0.0,22540.8,0.0,262144.0,119.13,0.0,379188.45
+publicweb-kiuwaneu-web,eu-west-1,2964032.4,98.81,6.54,1.2,0.03,0.0,61407070.32,6738509006.6,34574.18,1119433.48,24.83,0.0,343691.87,0.0,255576348.44,27.84,0.0,357040.18
